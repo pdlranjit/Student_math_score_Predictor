@@ -2,6 +2,6 @@ numpy
 pandas
 matplotlib
 seaborn 
-scikit-learn==1.7.1
+scikit-learn
 uvicorn
 streamlit
