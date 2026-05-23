@@ -1,3 +1,7 @@
-__pycache__/
+
 .ipynb_checkpoints/
+*.pyc__pycache__/
 *.pyc
+
+*.ipynb
+.gitignor
